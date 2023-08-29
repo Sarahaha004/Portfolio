@@ -5,7 +5,7 @@ const Home = () => {
   return (
     <div className={styles.home}> 
       <div className={`${styles.container} ${styles.flexCol} ${styles.justifyCenter} ${styles.hFull}`}>
-        <p className={styles.textPink}>Hi,I am</p>
+        <p className={styles.textPink}>Hello World!,I am</p>
         <h1 className={styles.textHeading}>APSARA S </h1>
         <h2 className={styles.textSubheading}>I'm a Full Stack Developer.</h2>
         <p className={styles.textDescription}>
