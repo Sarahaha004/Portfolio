@@ -1,4 +1,4 @@
-/src/*.js linguist-language=JavaScript
-/styles/*.css linguist-language=CSS
+*.js linguist-language=JavaScript
+*.css linguist-language=CSS
 
 
